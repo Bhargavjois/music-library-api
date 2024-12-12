@@ -1,4 +1,4 @@
-## Enhanced Music Library Management API
+## Enhanced Music Library Management API - Voosh
 
 This is a backend application developed for the Voosh backend developer assignment. The project provides an API service to manage entities like users, artists, albums, tracks, and favorites. This API also uses authentication and authorization system to handle access to certain end points to restricted users.
 
